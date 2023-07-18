@@ -2,6 +2,11 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="eagleapps-artifacts" />
+      <option name="name" value="BC's repository" />
+      <option name="url" value="https://artifactory.bc.edu/artifactory/eagleapps" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
